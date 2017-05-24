@@ -1,0 +1,2 @@
+# XcodeMultiTargetLocalization
+Xcode多Target下本地化App名称
