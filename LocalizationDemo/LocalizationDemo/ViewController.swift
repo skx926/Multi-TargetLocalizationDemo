@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  MultiTargetLocalization
+//  LocalizationDemo
 //
-//  Created by Kyle Sun on 2017/5/24.
-//  Copyright © 2017年 Kyle Sun. All rights reserved.
+//  Created by Kyle Sun on 25/05/2017.
+//  Copyright © 2017 Kyle Sun. All rights reserved.
 //
 
 import UIKit
